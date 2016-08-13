@@ -5,8 +5,13 @@ Creation of this package was inspired by [audreyr/cookiecutter-pypackage](https:
 
 ## Usage
 Important notes: 
+<<<<<<< HEAD
 - if the [virtualenv](https://virtualenv.pypa.io/en/stable/), ([basic usage](http://docs.python-guide.org/en/latest/dev/virtualenvs/)) is installed skip step 1 below
 - some packages may depend on the order listed in requirements.txt or requirements_dev.txt
+=======
+* if the virtualenv is installed skip step 1 below
+* some packages may depend on the order listed in requirements.txt or requirements_dev.txt
+>>>>>>> d3a4b1c760240cc48f60295f3ef512b73d60d21e
 
 ````
 1. $ pip install virtualenv 
