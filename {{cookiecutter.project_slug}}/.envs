@@ -1,0 +1,1 @@
+export PYTHONPATH="{{ cookiecutter.project_slug }}:$PYTHONPATH"

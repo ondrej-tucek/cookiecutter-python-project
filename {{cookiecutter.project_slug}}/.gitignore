@@ -4,8 +4,8 @@ __pycache__/
 *$py.class
 
 .cache
-.envs
-examples/out_data
+#.envs
+examples/data_out
 
 # C extensions
 *.so
