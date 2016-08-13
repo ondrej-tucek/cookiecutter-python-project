@@ -1,6 +1,6 @@
 # cookiecutter-python-project
 
-Creating of this package was inspired by [audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage).
+Creation of this package was inspired by [audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage).
 
 
 # Usage
