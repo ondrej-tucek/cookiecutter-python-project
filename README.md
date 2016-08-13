@@ -3,8 +3,8 @@
 Creation of this package was inspired by [audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage).
 
 
-# Usage
-1. $ pip install [virtualenv](https://virtualenv.pypa.io/en/stable/), [basic useage](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
+## Usage
+1. $ pip install [virtualenv](https://virtualenv.pypa.io/en/stable/), ([basic usage](http://docs.python-guide.org/en/latest/dev/virtualenvs/))
 2. ~/virtuals$ virtualenv `name_project
 3. $ source ~/virtuals/`name_project`/bin/activate
 4. $ pip install cookiecutter
@@ -20,6 +20,6 @@ Important notes:
 - some packages may depend on the order listed in requirements.txt or requirements_dev.txt
 
 
-# License
+## License
  [MIT](/LICENSE)
 
