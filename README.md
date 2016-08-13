@@ -10,8 +10,8 @@ Important notes:
 
 
 
-⋅⋅⋅:one: $ pip install [virtualenv](https://virtualenv.pypa.io/en/stable/), ([basic usage](http://docs.python-guide.org/en/latest/dev/virtualenvs/))
-⋅⋅⋅:two: ~/virtuals$ virtualenv `name_project`
+⋅⋅⋅:one: $ pip install [virtualenv](https://virtualenv.pypa.io/en/stable/), ([basic usage](http://docs.python-guide.org/en/latest/dev/virtualenvs/)).⋅⋅
+⋅⋅⋅:two: ~/virtuals$ virtualenv `name_project`.⋅⋅
 ⋅⋅⋅:three: $ source ~/virtuals/name_project/bin/activate
 
 4. $ pip install cookiecutter
