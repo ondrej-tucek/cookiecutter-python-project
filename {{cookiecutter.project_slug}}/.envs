@@ -1,1 +1,2 @@
-export PYTHONPATH="{{ cookiecutter.project_slug }}:$PYTHONPATH"
+#export PYTHONPATH="{{ cookiecutter.project_slug }}:$PYTHONPATH"
+export PYTHONPATH="{{ cookiecutter.project_slug }}:app"
