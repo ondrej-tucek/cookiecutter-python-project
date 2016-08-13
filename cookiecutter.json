@@ -1,0 +1,11 @@
+{
+	"full_name": "Ondrej Tucek",
+	"email": "ondrej.tucek@gmail.com",
+	"github_username": "ondrej-tucek",
+	"project_name": "Python Project",
+	"project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+	"project_short_description": "What about Python project is...",
+	"release_date": "2015-12-12",
+	"year": "2015",
+	"version": "0.1.0"
+}
