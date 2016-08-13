@@ -9,9 +9,11 @@ Important notes:
 - some packages may depend on the order listed in requirements.txt or requirements_dev.txt
 
 
-:one: $ pip install [virtualenv](https://virtualenv.pypa.io/en/stable/), ([basic usage](http://docs.python-guide.org/en/latest/dev/virtualenvs/))
-:two: ~/virtuals$ virtualenv `name_project`
-:three: $ source ~/virtuals/name_project/bin/activate
+
+⋅⋅⋅:one: $ pip install [virtualenv](https://virtualenv.pypa.io/en/stable/), ([basic usage](http://docs.python-guide.org/en/latest/dev/virtualenvs/))
+⋅⋅⋅:two: ~/virtuals$ virtualenv `name_project`
+⋅⋅⋅:three: $ source ~/virtuals/name_project/bin/activate
+
 4. $ pip install cookiecutter
 5. $ cd ~/projects/python/
 6. $ cookiecutter git@github.com:ondrej-tucek/cookiecutter-python-project.git
